@@ -1,0 +1,41 @@
+
+.fondo-navbar{
+    background-color: #252525;
+}
+
+.img_logo{
+    max-width: 30%;
+}
+
+.titulo1{
+ color: #AB8DD8;
+}
+
+.boton-ver-mas {
+	box-shadow: 3px 4px 0px 0px #252525;
+	background-color:#79bbff;
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.boton-ver-mas:hover {
+	background-color:#378de5;
+}
+.boton-ver-mas:active {
+	position:relative;
+	top:1px;
+}
+
+
+footer{
+    background-color: #AB8DD8;
+    height: 200px;
+}
